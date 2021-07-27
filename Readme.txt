@@ -1,4 +1,1 @@
-Ce projet consiste à créer une DataFrame a pratir des informations scrapper dans le site 
-OpenFoodFact en ce basant sur le code HTML
-et en utilisant la bibliothéque BeautifullSoup ansi que ces fonctionnalité (fin_all, find, 
-select, select_one...)
+This project consists of creating a DataFrame to practice information scrapper in the OpenFoodFact site based on the HTML code and using the BeautifullSoup library as well as these features (fin_all, find, select, select_one ...)
